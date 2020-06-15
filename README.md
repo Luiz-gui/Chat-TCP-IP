@@ -1,4 +1,4 @@
-# Chat-TCP-IP
+# Chat Cliente/Servidor com protocolo TCP/IP
 Chat para troca de mensagens entre usuários utilizando o protocolo TCP/IP
 
 Este projeto é um chat para comunicação de diversos usuários através de uma conexão local utilizando o protocolo TCP/IP. Ele foi desenvolvido conjuntamente com minha colega Joyce Querubino e conforme o tema do trabalho da faculdade UNIP do curso de Ciência da Computação, que definia a aplicação para comunicação de servidores públicos responsáveis pelos cuidados do Rio Tiête.   
@@ -15,7 +15,7 @@ Este projeto é um chat para comunicação de diversos usuários através de uma
     <img src="public/Servidor.png">
 </h1>
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas ðŸ’»
 
 - Linguagem C# ;
 - Bibliotecas; 
